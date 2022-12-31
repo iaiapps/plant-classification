@@ -1,0 +1,50 @@
+/* landing */
+body {
+    background-color: white;
+}
+
+.wrapper {
+    min-height: 100vh;
+    color: white;
+    background: linear-gradient(rgba(15, 94, 25, 0.8), rgba(0, 0, 0, 0.249)),
+        url("/img/back.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.navicon {
+    /* background-color: rgba(255, 255, 255, 0.708); */
+    border-bottom: 2px solid rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+}
+
+.logo {
+    width: 120px;
+    height: auto;
+}
+
+.lebar {
+    width: 40%;
+}
+
+/* login */
+.logologin {
+    width: 100px;
+}
+
+/* dashboard */
+
+.logoDashboard {
+    text-align: center;
+    width: 70px;
+    height: auto;
+}
+
+hr {
+    margin: 0;
+}
+
+/* thumbnail */
+.img-thumb {
+    width: 75px;
+}
